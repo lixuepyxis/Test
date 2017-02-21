@@ -1,36 +1,16 @@
-# Object files
+*.crf
 *.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
+*.__i
+*.axf
+*.htm
+*.tra
+*.bin
+*.crf
+*.o
+*.crf
+*.o
+*.map
+project_template/MDKProject/Objects
 *.hex
-
-# Debug files
-*.dSYM/
-*.su
-/project_template/MDKProject/Objects
-/project_template/MDKProject/Listings/*.map
-*.dep
+*.o
+*.crf

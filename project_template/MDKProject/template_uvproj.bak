@@ -417,11 +417,6 @@
               <FileType>1</FileType>
               <FilePath>..\User\stm32f10x_it.c</FilePath>
             </File>
-            <File>
-              <FileName>resistance.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\User\resistance.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -566,96 +561,6 @@
               <FileName>startup_stm32f10x_hd.s</FileName>
               <FileType>2</FileType>
               <FilePath>..\CMSIS\startup_stm32f10x_hd.s</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Modbus</GroupName>
-          <Files>
-            <File>
-              <FileName>mb.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\mb.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbascii.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\ascii\mbascii.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfunccoils.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfunccoils.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfuncdiag.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfuncdiag.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfuncdisc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfuncdisc.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfuncholding.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfuncholding.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfuncinput.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfuncinput.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbfuncother.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbfuncother.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbutils.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\functions\mbutils.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbcrc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\rtu\mbcrc.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbrtu.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\rtu\mbrtu.c</FilePath>
-            </File>
-            <File>
-              <FileName>mbtcp.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus\tcp\mbtcp.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Modbus_Port</GroupName>
-          <Files>
-            <File>
-              <FileName>embreg.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus_Port\embreg.c</FilePath>
-            </File>
-            <File>
-              <FileName>portevent.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus_Port\portevent.c</FilePath>
-            </File>
-            <File>
-              <FileName>portserial.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus_Port\portserial.c</FilePath>
-            </File>
-            <File>
-              <FileName>porttimer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FreeModbus\Modbus_Port\porttimer.c</FilePath>
             </File>
           </Files>
         </Group>

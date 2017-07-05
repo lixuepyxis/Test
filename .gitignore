@@ -5,4 +5,4 @@
 *.tra
 *.bin
 *.map
-project_template/MDKProject/Objects
+/project_template/MDKProject/Objects/

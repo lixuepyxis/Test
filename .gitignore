@@ -1,16 +1,8 @@
 *.crf
-*.o
 *.__i
 *.axf
 *.htm
 *.tra
 *.bin
-*.crf
-*.o
-*.crf
-*.o
 *.map
 project_template/MDKProject/Objects
-*.hex
-*.o
-*.crf

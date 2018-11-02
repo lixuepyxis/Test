@@ -1,0 +1,59 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.so
+*.so.*
+*.dylib
+/ST71xConfigurator/ST71xConfigurator/bin/Debug
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.txt
+*.crf
+*.iex
+*.d
+*.AndyChen
+*.HUANHUAN
+*.htm
+*.jpg
+*.icf
+*.map
+*.axf
+*.lnp
+*.lst
+*.launch
+*.html
+*.bmp
+*.ld
+*.lsl
+*.pdf
+*.dep
+*.bin
+*.bin
+*.bin
+*.dep
+*.csv
+*.rar
+*.xlsx
